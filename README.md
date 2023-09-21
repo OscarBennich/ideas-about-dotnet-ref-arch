@@ -1,12 +1,28 @@
 # ideas-about-dotnet-ref-arch
-A collection of my ideas, examples, and resources regarding architecture and tech choices for a full-stack .NET web application.
+A collection of my ideas, examples, and resources regarding architecture and tech choices for a full-stack enterprise-level .NET Web Application.
 
 ---
-# Backend
+# Back-end
+.NET Core C# (.NET 6/7/8)
 
-# Frontend
+## Useful libraries
+### MediatR
+
+# Front-end
+## SPA vs. MPA
+## ASP .NET
+### Razor views vs. Razor pages
+
+## WASM (Blazor)
+
+## JavaScript
+### JavaScript vs. TypeScript
+### Frontend Framework
+#### Meta-framework?
+### Component library?
 
 # Deployment
+## Azure
 
 # Architecture
 ## Talks & Presentations
@@ -19,4 +35,7 @@ A collection of my ideas, examples, and resources regarding architecture and tec
   - [39:52](https://youtu.be/5OjqD-ow8GE?t=2392): "When you change something here, a whole bunch of stuff here breaks and you don't know why [...]"
   - [40:03](https://youtu.be/5OjqD-ow8GE?t=2403): Good architecture/good structure/high modularity enables fast development
   - [42:14](https://youtu.be/5OjqD-ow8GE?t=2534) / [44:47](https://youtu.be/5OjqD-ow8GE?t=2687): Start with a Modular Monolith THEN (maybe) move into Microservices
+    
 # Testing
+## Useful libraries
+## Strategy
