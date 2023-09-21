@@ -41,3 +41,8 @@ A collection of my ideas, examples, and resources regarding architecture and tec
 # Testing
 ## Useful libraries
 ## Strategy
+
+# Version-control (git)
+## Branching strategy
+## Merge strategy
+## Thoughts about commit messages
