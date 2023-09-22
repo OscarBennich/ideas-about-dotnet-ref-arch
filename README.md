@@ -18,6 +18,8 @@ A collection of my ideas, examples, and resources regarding architecture and tec
 ## JavaScript
 ### JavaScript vs. TypeScript
 ### Frontend Framework
+#### React
+- [React+TypeScript Cheatsheets](https://github.com/typescript-cheatsheets/react)
 #### Meta-framework?
 ### Component library?
 
