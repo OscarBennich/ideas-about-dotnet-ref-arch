@@ -5,6 +5,11 @@ A collection of my ideas, examples, and resources regarding architecture and tec
 # Back-end
 .NET Core C# (.NET 6/7/8)
 
+## Database
+### MySQL
+## ORM
+### EF Core
+### Dapper
 ## Useful libraries
 ### MediatR
 
