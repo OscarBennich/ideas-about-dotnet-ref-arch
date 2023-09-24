@@ -2,8 +2,19 @@
 A collection of my ideas, examples, and resources regarding architecture and tech choices for a full-stack enterprise-level .NET Web Application.
 
 ---
+
 # Back-end
 .NET Core C# (.NET 6/7/8)
+
+## Why C#?
+- Popular
+- Open-source
+- Cross-platform
+- Strongly typed
+- Actively developed
+- Performant (ASP.NET Core composite score is #7 / 141 frameworks tested on [TechEmpower.com](https://www.techempower.com/benchmarks/#section=data-r21&hw=ph&test=composite))
+
+![image](https://github.com/OscarBennich/ideas-about-dotnet-ref-arch/assets/26872957/61afb960-4b8c-4b4d-b6ee-19c5f8dfbe2b)
 
 ## Database
 ### MySQL
