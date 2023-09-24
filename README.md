@@ -14,6 +14,7 @@ A collection of my ideas, examples, and resources regarding architecture and tec
 ### MediatR
 
 # Front-end
+- Protyping tool for colors and fonts: [Realtime Colors](https://www.realtimecolors.com/?colors=000000-ffffff-8fb3ff-ebf1ff-d41d6d)
 ## Server-Side Rendering (SSR) vs. Client-Side Rendering (CSR)
 ### Server-Side Rendering
 #### ASP.NET MVC
