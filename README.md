@@ -14,11 +14,16 @@ A collection of my ideas, examples, and resources regarding architecture and tec
 ### MediatR
 
 # Front-end
+## Server-Side Rendering (SSR) vs. Client-Side Rendering (CSR)
+### Server-Side Rendering
+#### ASP.NET MVC
+### Client-Side Rendering
+#### How to handle Authentication & Authorization?
+#### Frameworks
+##### Blazor
+- [What is the Future of Blazor? Should I Learn Blazor?](https://www.youtube.com/watch?v=OUUlO8fQOfE)
 ## SPA vs. MPA
-## ASP .NET
 ### Razor views vs. Razor pages
-
-## WASM (Blazor)
 
 ## JavaScript
 ### JavaScript vs. TypeScript
