@@ -10,6 +10,7 @@ A collection of my ideas, examples, and resources regarding architecture and tec
 - Popular (Top 7 on GitHub repositories if you discount non-programming languages like Dockerfiles and Makefiles)
 
 ![image](https://github.com/OscarBennich/ideas-about-dotnet-ref-arch/assets/26872957/9f44b3f0-d5d0-42e7-8804-a5e1c0d9230f)
+https://innovationgraph.github.com/global-metrics/programming-languages
 
 - Open-source
 - Cross-platform
