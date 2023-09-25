@@ -39,11 +39,13 @@ https://innovationgraph.github.com/global-metrics/programming-languages
 #### Frameworks
 ##### Blazor
 - [What is the Future of Blazor? Should I Learn Blazor?](https://www.youtube.com/watch?v=OUUlO8fQOfE)
+- [Running Blazor in production, lessons learned - Jimmy Engström - NDC London 2023](https://www.youtube.com/watch?v=bZdYpYQb958)
 ## SPA vs. MPA
 ### Razor views vs. Razor pages
 
 ## JavaScript
 ### JavaScript vs. TypeScript
+- TypeScript resource: [Matt Pocock](https://www.youtube.com/@mattpocockuk/videos)
 ### Frontend Framework
 #### React
 - [React+TypeScript Cheatsheets](https://github.com/typescript-cheatsheets/react)
