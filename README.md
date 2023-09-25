@@ -54,6 +54,11 @@ https://innovationgraph.github.com/global-metrics/programming-languages
 ## Azure
 
 # Architecture
+## CQRS
+- [Martin Fowler](https://martinfowler.com/bliki/CQRS.html)
+- [Microsoft Learn](https://learn.microsoft.com/en-us/azure/architecture/patterns/cqrs)
+- [TechTarget](https://www.techtarget.com/searchapparchitecture/definition/CQRS-command-query-responsibility-segregation)
+  
 ## Talks & Presentations
 - [Modular Monoliths • Simon Brown • GOTO 2018](https://www.youtube.com/watch?v=5OjqD-ow8GE)
   - [17:45](https://youtu.be/5OjqD-ow8GE?t=1065): Example of adding a feature in a system without clear encapsulation/structure, controllers calling repositories, etc...
