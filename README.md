@@ -50,10 +50,12 @@ https://innovationgraph.github.com/global-metrics/programming-languages
 ### JavaScript vs. TypeScript
 - TypeScript resource: [Matt Pocock](https://www.youtube.com/@mattpocockuk/videos)
 ### Frontend Frameworks
-### Svelte
+#### Svelte
 - [Understanding Svelte (vs React)](https://www.youtube.com/watch?v=lYYGhm7p74Q)
 #### React
 - [React+TypeScript Cheatsheets](https://github.com/typescript-cheatsheets/react)
+#### SolidJS
+- [What is SolidJS (vs React and Svelte)?](https://www.youtube.com/watch?v=A_dUsSzxwkI)
 #### Meta-framework?
 ### Component library?
 
