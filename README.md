@@ -29,6 +29,9 @@ https://innovationgraph.github.com/global-metrics/programming-languages
 ## Useful libraries
 ### MediatR
 
+## API
+- Minimal APIs? [Goodbye controllers, hello Minimal APIs - Nick Chapsas - NDC London 2022](https://www.youtube.com/watch?v=hPpvlKLeYYA)
+
 # Front-end
 - Protyping tool for colors and fonts: [Realtime Colors](https://www.realtimecolors.com/?colors=000000-ffffff-8fb3ff-ebf1ff-d41d6d)
 ## Server-Side Rendering (SSR) vs. Client-Side Rendering (CSR)
