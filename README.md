@@ -21,6 +21,9 @@ https://innovationgraph.github.com/global-metrics/programming-languages
 
 ![image](https://github.com/OscarBennich/ideas-about-dotnet-ref-arch/assets/26872957/61afb960-4b8c-4b4d-b6ee-19c5f8dfbe2b)
 
+## Coding-style
+- [Coding-style guidelines the .NET runtime repository](https://github.com/dotnet/runtime/blob/main/docs/coding-guidelines/coding-style.md)
+
 ## Database
 ### MySQL
 ## ORM
