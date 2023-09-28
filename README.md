@@ -23,6 +23,8 @@ https://innovationgraph.github.com/global-metrics/programming-languages
 
 ## Coding-style
 - [Coding-style guidelines from the .NET runtime repository](https://github.com/dotnet/runtime/blob/main/docs/coding-guidelines/coding-style.md)
+- [Common C# code conventions](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions)
+- [Automatically apply format rules w/ `dotnet format`](https://learn.microsoft.com/en-us/dotnet/core/tools/dotnet-format)
 
 ## Database
 ### MySQL
