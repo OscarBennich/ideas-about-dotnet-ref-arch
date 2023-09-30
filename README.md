@@ -27,7 +27,12 @@ https://innovationgraph.github.com/global-metrics/programming-languages
 - [Automatically apply format rules w/ `dotnet format`](https://learn.microsoft.com/en-us/dotnet/core/tools/dotnet-format)
 
 ## Database
+- [SQLite vs MySQL vs PostgreSQL](https://www.digitalocean.com/community/tutorials/sqlite-vs-mysql-vs-postgresql-a-comparison-of-relational-database-management-systems)
 ### MySQL
+- [Most popular open-source DBMS](https://db-engines.com/en/)
+
+  ![image](https://github.com/OscarBennich/ideas-about-dotnet-ref-arch/assets/26872957/45b47eb5-3579-400e-91de-fb5e570a84db)
+
 ## ORM
 ### EF Core
 ### Dapper
