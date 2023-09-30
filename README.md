@@ -76,7 +76,8 @@ https://innovationgraph.github.com/global-metrics/programming-languages
 # Architecture
 ## CQRS
 - [CQRS and MediatR in ASP.NET Core](https://code-maze.com/cqrs-mediatr-in-aspnet-core/)
-- [Martin Fowler](https://martinfowler.com/bliki/CQRS.html)
+- [CQRS - Martin Fowler](https://martinfowler.com/bliki/CQRS.html)
+- [CommandQuerySeparation - Martin Fowler](https://martinfowler.com/bliki/CommandQuerySeparation.html)
 - [Microsoft Learn](https://learn.microsoft.com/en-us/azure/architecture/patterns/cqrs)
 - [TechTarget](https://www.techtarget.com/searchapparchitecture/definition/CQRS-command-query-responsibility-segregation)
   
