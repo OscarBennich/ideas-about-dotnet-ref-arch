@@ -1,5 +1,7 @@
-# ideas-about-dotnet-ref-arch
+# Ideas about .NET reference architecture
 A collection of my ideas, examples, and resources regarding architecture and tech choices for a full-stack enterprise-level .NET Web Application.
+
+
 
 ---
 
