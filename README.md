@@ -5,20 +5,22 @@ A collection of my ideas, examples, and resources regarding architecture and tec
 ```mermaid
 gantt
     dateFormat YYYY-MM-DD
-    section Milestone 1
+    section Phase 1
         Gather info - Back-end: active, info1, 2023-10-01, 1m
         Gather info - Database: active, info2, 2023-10-01, 1m
         Gather info - Front-end: active, info3, 2023-10-01, 1m
         Gather info - Architecture: active, info4, 2023-10-01, 1m
         Gather info - Testing: active, info5, 2023-10-01, 1m
-    section Milestone 2
-        .NET + React prototype: prot1, after info3, 2m
-        .NET + SolidJS prototype: prot2, after info3, 2m
-        .NET + Svelte prototype: prot3, after info3, 2m
-        .NET + Blazor prototype: prot4, after info3, 2m
-    section Milestone 3
-        Compile results: comp1, after prot1, 1m
-    section Milestone 4
+        Gather info - Complete: milestone, active, milestone1, after info1 info2 info3 info4 info5, 0d
+    section Phase 2
+        .NET + React prototype: prot1, after milestone1, 2m
+        .NET + SolidJS prototype: prot2, after milestone1, 2m
+        .NET + Svelte prototype: prot3, after milestone1, 2m
+        .NET + Blazor prototype: prot4, after milestone1, 2m
+        Prototypes - Complete: milestone, milestone2, after prot1 prot2 prot3 prot4, 0d
+    section Phase 3
+        Compile results: comp1, after milestone2, 1m
+    section Phase 4
         Create ref. project: after comp1, 2m
 ```
 ---
