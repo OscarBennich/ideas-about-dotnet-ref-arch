@@ -48,6 +48,8 @@ https://innovationgraph.github.com/global-metrics/programming-languages
 - [Common C# code conventions](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions)
 - [Automatically apply format rules w/ `dotnet format`](https://learn.microsoft.com/en-us/dotnet/core/tools/dotnet-format)
 
+## Logging, tracing, monitoring
+- [Logging, tracing and metrics: instrumentation in .NET and Azure - Alex Thissen - NDC London 2023](https://www.youtube.com/watch?v=CdcApjTBLEM)
 ## Database
 - [SQLite vs MySQL vs PostgreSQL](https://www.digitalocean.com/community/tutorials/sqlite-vs-mysql-vs-postgresql-a-comparison-of-relational-database-management-systems)
 ### MySQL
