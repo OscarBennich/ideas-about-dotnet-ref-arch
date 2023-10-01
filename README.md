@@ -1,8 +1,26 @@
 # Ideas about .NET reference architecture
 A collection of my ideas, examples, and resources regarding architecture and tech choices for a full-stack enterprise-level .NET Web Application.
 
-
-
+## Roadmap 🛣
+```mermaid
+gantt
+    dateFormat YYYY-MM-DD
+    section Milestone 1
+        Gather info - Back-end: active, info1, 2023-10-01, 1m
+        Gather info - Database: active, info2, 2023-10-01, 1m
+        Gather info - Front-end: active, info3, 2023-10-01, 1m
+        Gather info - Architecture: active, info4, 2023-10-01, 1m
+        Gather info - Testing: active, info5, 2023-10-01, 1m
+    section Milestone 2
+        .NET + React prototype: prot1, after info3, 2m
+        .NET + SolidJS prototype: prot2, after info3, 2m
+        .NET + Svelte prototype: prot3, after info3, 2m
+        .NET + Blazor prototype: prot4, after info3, 2m
+    section Milestone 3
+        Compile results: comp1, after prot1, 1m
+    section Milestone 4
+        Create ref. project: after comp1, 2m
+```
 ---
 
 # Back-end
