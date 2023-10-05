@@ -50,6 +50,11 @@ https://innovationgraph.github.com/global-metrics/programming-languages
 
 ## Logging, tracing, monitoring
 - [Logging, tracing and metrics: instrumentation in .NET and Azure - Alex Thissen - NDC London 2023](https://www.youtube.com/watch?v=CdcApjTBLEM)
+
+## Caching
+- Redis?
+## Logging
+## Authentication & Authorization
 ## Database
 - [SQLite vs MySQL vs PostgreSQL](https://www.digitalocean.com/community/tutorials/sqlite-vs-mysql-vs-postgresql-a-comparison-of-relational-database-management-systems)
 ### MySQL
