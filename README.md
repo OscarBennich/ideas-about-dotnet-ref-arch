@@ -124,6 +124,9 @@ https://innovationgraph.github.com/global-metrics/programming-languages
 ## Books
 
 # Testing
+## UI testing
+- [Playwright](https://playwright.dev/)
+  - [Playwright testing in Azure](https://azure.microsoft.com/en-us/products/playwright-testing/) 
 ## Useful libraries
 ## Strategy
 
