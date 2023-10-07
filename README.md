@@ -92,6 +92,7 @@ https://innovationgraph.github.com/global-metrics/programming-languages
 ### Frontend Frameworks
 #### Svelte
 - [Understanding Svelte (vs React)](https://www.youtube.com/watch?v=lYYGhm7p74Q)
+- [Svelte Actions Make Svelte The Best JavaScript Framework](https://www.youtube.com/watch?v=LGOqg0Y7sAc)
 #### React
 - [React+TypeScript Cheatsheets](https://github.com/typescript-cheatsheets/react)
 #### SolidJS
