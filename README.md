@@ -28,8 +28,9 @@ gantt
 # Back-end
 .NET Core C# (.NET 6/7/8)
 
-## Template
+## Templates
 - [jasontaylordev/CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture)
+- [ardalis/CleanArchitecture](https://github.com/ardalis/CleanArchitecture/tree/v8)
 
 ## Why C#?
 - Popular (Top 7 on GitHub repositories if you discount non-programming languages like Dockerfiles and Makefiles)
@@ -74,7 +75,25 @@ https://innovationgraph.github.com/global-metrics/programming-languages
 ### MediatR
 
 ## API
-- Minimal APIs? [Goodbye controllers, hello Minimal APIs - Nick Chapsas - NDC London 2022](https://www.youtube.com/watch?v=hPpvlKLeYYA)
+### Validation
+- FluentValidation? https://docs.fluentvalidation.net/en/latest/
+
+### Minimal APIs in C#
+- [Minimal APIs documentation (Microsoft Learn)](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/minimal-apis/overview?view=aspnetcore-7.0)
+- [Why Minimal APIs (JetBrains)](https://blog.jetbrains.com/dotnet/2023/04/25/introduction-to-asp-net-core-minimal-apis/#why-asp.net-core-minimal-api?)
+- [Example repo from Nick Chapsas](https://github.com/Elfocrash/clean-minimal-api)
+- [FastEndpoints library](https://fast-endpoints.com/)
+- [Goodbye controllers, hello Minimal APIs - Nick Chapsas - NDC London 2022](https://www.youtube.com/watch?v=hPpvlKLeYYA)
+  - [2:02](https://youtu.be/hPpvlKLeYYA?t=122): History of Minimal APIs
+  - [5:21](https://youtu.be/hPpvlKLeYYA?t=322): How does it work in C#?
+  - [9:31](https://youtu.be/hPpvlKLeYYA?t=571): Live demo #1
+  - [20:20](https://youtu.be/hPpvlKLeYYA?t=1220): Unsupported features (as of .NET6)
+  - [22:20](https://youtu.be/hPpvlKLeYYA?t=1340): "Program.cs hell"
+  - [22:15](https://youtu.be/hPpvlKLeYYA?t=1575): "Controllers for APIs are wierd"
+  - [37:40](https://youtu.be/hPpvlKLeYYA?t=2260): What are Minimal APIs?
+  - [38:05](https://youtu.be/hPpvlKLeYYA?t=2285): Live demo #2
+  - [43:26](https://youtu.be/hPpvlKLeYYA?t=2606): Viability of using Minimal APIs depending on project
+- [Talk about APIs using MVC, redundancy etc.](https://www.youtube.com/watch?v=d9Bjg31VuHw&t=2625s)
 
 # Front-end
 - Protyping tool for colors and fonts: [Realtime Colors](https://www.realtimecolors.com/?colors=000000-ffffff-8fb3ff-ebf1ff-d41d6d)
@@ -143,5 +162,10 @@ https://innovationgraph.github.com/global-metrics/programming-languages
 ## Thoughts about commit messages
 
 # General tools etc.
+## Rest Client for VS Code
+Would be nice to have a "samples" folder in the project with pre-baked HTTP requests for different things in the system
+
+- https://marketplace.visualstudio.com/items?itemName=humao.rest-client
+
 ## Mindmaps
 - [Mindmeister](https://www.mindmeister.com/)
