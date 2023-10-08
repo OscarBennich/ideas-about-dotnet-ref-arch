@@ -113,6 +113,13 @@ https://innovationgraph.github.com/global-metrics/programming-languages
 ## JavaScript
 ### JavaScript vs. TypeScript
 - TypeScript resource: [Matt Pocock](https://www.youtube.com/@mattpocockuk/videos)
+### Tooling
+#### Vite
+- https://vitejs.dev/
+- https://vitejs.dev/guide/#getting-started
+
+![image](https://github.com/OscarBennich/ideas-about-dotnet-ref-arch/assets/26872957/b987c011-6b73-43a5-85e4-a6253033bef3)
+
 ### Frontend Frameworks
 #### Svelte
 - [Understanding Svelte (vs React)](https://www.youtube.com/watch?v=lYYGhm7p74Q)
