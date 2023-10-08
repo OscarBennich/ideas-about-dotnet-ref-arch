@@ -59,6 +59,7 @@ https://innovationgraph.github.com/global-metrics/programming-languages
 ## Logging
 ## Authentication & Authorization
 - [ASP.NET Core SPA Authentication Tutorial (.NET 7 Minimal Apis C#)](https://www.youtube.com/watch?v=DpLtCbW_x2I)
+- [Token Authentication In ASP.NET Core 7 With JWT | Clean Architecture](https://www.youtube.com/watch?v=4cFhYUK8wnc)
 ## Database
 - [SQLite vs MySQL vs PostgreSQL](https://www.digitalocean.com/community/tutorials/sqlite-vs-mysql-vs-postgresql-a-comparison-of-relational-database-management-systems)
 ### MySQL
