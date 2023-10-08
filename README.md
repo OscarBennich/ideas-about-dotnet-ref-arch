@@ -58,6 +58,7 @@ https://innovationgraph.github.com/global-metrics/programming-languages
 - Redis?
 ## Logging
 ## Authentication & Authorization
+- [ASP.NET Core SPA Authentication Tutorial (.NET 7 Minimal Apis C#)](https://www.youtube.com/watch?v=DpLtCbW_x2I)
 ## Database
 - [SQLite vs MySQL vs PostgreSQL](https://www.digitalocean.com/community/tutorials/sqlite-vs-mysql-vs-postgresql-a-comparison-of-relational-database-management-systems)
 ### MySQL
@@ -113,6 +114,7 @@ https://innovationgraph.github.com/global-metrics/programming-languages
 - [CommandQuerySeparation - Martin Fowler](https://martinfowler.com/bliki/CommandQuerySeparation.html)
 - [Microsoft Learn](https://learn.microsoft.com/en-us/azure/architecture/patterns/cqrs)
 - [TechTarget](https://www.techtarget.com/searchapparchitecture/definition/CQRS-command-query-responsibility-segregation)
+- [CQRS Doesn't Have To Be Complicated | Clean Architecture, .NET 6](https://www.youtube.com/watch?v=vdi-p9StmG0)
   
 ## Talks & Presentations
 - [Modular Monoliths • Simon Brown • GOTO 2018](https://www.youtube.com/watch?v=5OjqD-ow8GE)
