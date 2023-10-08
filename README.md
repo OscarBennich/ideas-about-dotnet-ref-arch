@@ -28,6 +28,9 @@ gantt
 # Back-end
 .NET Core C# (.NET 6/7/8)
 
+## Template
+- [jasontaylordev/CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture)
+
 ## Why C#?
 - Popular (Top 7 on GitHub repositories if you discount non-programming languages like Dockerfiles and Makefiles)
 
