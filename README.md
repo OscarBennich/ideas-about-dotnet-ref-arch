@@ -138,3 +138,7 @@ https://innovationgraph.github.com/global-metrics/programming-languages
 ## Branching strategy
 ## Merge strategy
 ## Thoughts about commit messages
+
+# General tools etc.
+## Mindmaps
+- [Mindmeister](https://www.mindmeister.com/)
