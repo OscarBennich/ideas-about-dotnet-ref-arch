@@ -101,6 +101,7 @@ https://innovationgraph.github.com/global-metrics/programming-languages
 - [Do you REALLY need SSR?](https://www.youtube.com/watch?v=kUs-fH1k-aM)
 ### Server-Side Rendering
 #### ASP.NET MVC
+- [Which C# Web Application Type Should I use? MVC? Blazor? Razor Pages?](https://www.youtube.com/watch?v=YhojOiGjGvQ)
 ### Client-Side Rendering
 #### How to handle Authentication & Authorization?
 #### Frameworks
