@@ -114,6 +114,8 @@ https://innovationgraph.github.com/global-metrics/programming-languages
 ## JavaScript
 ### JavaScript vs. TypeScript
 - TypeScript resource: [Matt Pocock](https://www.youtube.com/@mattpocockuk/videos)
+- [The TSConfig Cheat Sheet](https://www.youtube.com/watch?v=eJXVEju3XLM)
+
 ### Tooling
 #### Vite
 - https://vitejs.dev/
