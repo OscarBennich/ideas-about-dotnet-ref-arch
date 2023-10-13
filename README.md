@@ -94,6 +94,7 @@ https://innovationgraph.github.com/global-metrics/programming-languages
   - [38:05](https://youtu.be/hPpvlKLeYYA?t=2285): Live demo #2
   - [43:26](https://youtu.be/hPpvlKLeYYA?t=2606): Viability of using Minimal APIs depending on project
 - [Talk about APIs using MVC, redundancy etc.](https://www.youtube.com/watch?v=d9Bjg31VuHw&t=2625s)
+- [Write cleaner APIs in .NET 7 with MediatR](https://www.youtube.com/watch?v=euUg_IHo7-s)
 
 # Front-end
 - Protyping tool for colors and fonts: [Realtime Colors](https://www.realtimecolors.com/?colors=000000-ffffff-8fb3ff-ebf1ff-d41d6d)
