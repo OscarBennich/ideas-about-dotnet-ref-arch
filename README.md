@@ -139,6 +139,7 @@ https://innovationgraph.github.com/global-metrics/programming-languages
 ## Azure
 
 # Architecture
+- [How to structure a .NET Solution (project separation & architecture)](https://www.youtube.com/watch?v=YiVqwoFMieg)
 ## CQRS
 - [CQRS and MediatR in ASP.NET Core](https://code-maze.com/cqrs-mediatr-in-aspnet-core/)
 - [CQRS - Martin Fowler](https://martinfowler.com/bliki/CQRS.html)
