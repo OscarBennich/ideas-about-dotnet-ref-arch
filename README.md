@@ -139,6 +139,9 @@ https://innovationgraph.github.com/global-metrics/programming-languages
 ## Azure
 
 # Architecture
+- ArchiMate - Product: https://pubs.opengroup.org/architecture/archimate31-doc/chap08.html#:~:text=8.5.1-,Product,-A%20product%C2%A0represents
+- ArchiMate - Application Components: https://pubs.opengroup.org/architecture/archimate31-doc/chap09.html
+
 - [How to structure a .NET Solution (project separation & architecture)](https://www.youtube.com/watch?v=YiVqwoFMieg)
 ## CQRS
 - [CQRS and MediatR in ASP.NET Core](https://code-maze.com/cqrs-mediatr-in-aspnet-core/)
